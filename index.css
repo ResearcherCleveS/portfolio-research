@@ -73,9 +73,9 @@ body {
     font-size: var(--font-size-small);
     font-family: var(--font-stack);
     font-weight: 400;
-    color: var(--white-1);
+    color: var(--grey);
     line-height: var(--line-height-normal);
-    background: var(--black);
+    background: var(--blue);
     overflow-x: hidden;
 }
 
