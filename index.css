@@ -249,17 +249,17 @@ body:not(.user-is-tabbing) a:focus {
     background: var(--gold);
 }
 
-.btn--pink {
+.btn--gold {
     background: var(--gold);
     transition: all 0.2s;
 }
 
-.btn--pink::after {
+.btn--gold::after {
     display: none;
 }
 
-.btn--pink:hover,
-.btn--pink:focus {
+.btn--gold:hover,
+.btn--gold:focus {
     background: transparent;
 }
 
@@ -601,8 +601,8 @@ body:not(.user-is-tabbing) a:focus {
 .footer__github-buttons {
     display: flex;
     justify-content: center;
-}
 
+}
 .footer__github-buttons iframe {
     height: 2.5rem;
     width: 84px;
