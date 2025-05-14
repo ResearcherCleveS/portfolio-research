@@ -133,10 +133,21 @@
               </div>
             </div>
             <div class="work__image-box">
-              <script src="https://pyscript.net/releases/pyscript.js" defer></script>
-                      <py-script>
-                        print("Hello from Python!")
-                      </py-script>
+              <!DOCTYPE html>
+            <html>
+            <head>
+             <title>Python in HTML</title>
+             <script src="https://pyscript.net/releases/pyscript.js" defer></script>
+            </head>
+            <body>
+
+              <py-script>
+                import time
+                print(f"The current time is: {time.ctime()}")
+              </py-script>
+
+            </body>
+            </html>  
 <!--               <img src="images/New Website Demo Shot.png" class="work__image" alt="images/New Website Demo Shot.png" /> -->
             </div>
           </div>
