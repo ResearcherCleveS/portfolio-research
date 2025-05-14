@@ -1,5 +1,7 @@
 # Portfolio Template
 
+![Black Scholes](https://github.com/user-attachments/assets/3e659776-56fe-4490-a77d-29eccfc157bc)
+
 ### A beautiful minimal and accessible portfolio template for Developers ✨.
 
 To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
